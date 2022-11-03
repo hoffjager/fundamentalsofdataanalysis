@@ -8,6 +8,9 @@ Claude Elwood Shannon was an American mathematician and computer scientist who a
 Information theory went on to evolve into the electronic communications networks.
 Shannon began working at Bell Labs in 1941 where his communication systems proceeded to assist both Franklin Roosevelt & Winston Churchill to communicate with each other during World War II.
 Shannon noted the binary digit was fundamental in all communications from phone lines to wireless connections used today.
+From the Jupyter notebook titled Information, we read through the paragraph excerpt from Alice in Wonderland and this is understandable as it is nostalgic to analyse.
+But Shannon suggested and coined that the randomly generated text can represent far more information compared to the traditional Alice in Wonderland paragraph which must follow distinct rules of the English language and is therefore restricted.
+Shannon proposed the idea of generating strings of letters based on their probability in the English language, by rebuilding strings and putting a weight on each character via the quantities of each character within the entire book of Alice in Wonderland in this example.
 
 References:
 Topic 1: Information:
