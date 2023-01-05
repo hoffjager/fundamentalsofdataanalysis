@@ -73,4 +73,17 @@ Bonthu Harika, Python Tutorial: Working with CSV file for Data Science, Analytic
 How to Specify Colors to Scatter Plots in Python, cmdlinetips, https://cmdlinetips.com/2019/04/how-to-specify-colors-to-scatter-plots-in-python/  
 What Is A Box and Whisker Plot?, Khan Academy, https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/box-plot-review  
 Bento Carolina, Create and customise boxplots with Python's Matplotlib to get lots of insights from your data, Towards Data Science, https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643  
-Inversely Proportional, KeyStageWiki, https://www.keystagewiki.com/index.php/Inversely_Proportional
+Inversely Proportional, KeyStageWiki, https://www.keystagewiki.com/index.php/Inversely_Proportional  
+
+Topic 5: Cleansing (Regular Expressions)  
+
+Data cleansing is used to identify errors, duplicates and unrelated data points in datasets in order to fix them.  
+Cleansing is a part of preparing data, it allows analysts to create more reliable models and visualisations to make better business decisions.  
+
+References:  
+
+McLoughlin Ian, Fundamentals of Data Analysis Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/05-cleansing.ipynb  
+Data Cleansing, Alteryx, https://www.alteryx.com/glossary/data-cleansing  
+Hadzhiev Borislav, Remove non-alphanumeric characters from a Python string, bobbyhadz, https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string  
+Given a URL to a text file, what is the simplest way to read the contents of the text file, Stack Overflow, https://stackoverflow.com/a/1393367  
+Bhadaniya Shivali, 8 Ways To Capitalize First Letter in Python, Favtutor, https://favtutor.com/blogs/capitalize-first-letter-python
