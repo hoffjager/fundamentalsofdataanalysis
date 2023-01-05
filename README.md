@@ -7,9 +7,7 @@ Topic 1: Information (Comparisons & Entropy)
 
 Information theory is a concept of mathematics and statistics based on the work of statistician Claude Shannon in the 1940s.  
 Information theory provides data analysts with tools necessary to improve the transmission of telecommunication signals, particularly important in World War II where Roosevelt & Churchill could communicate.  
-Here, we read through the paragraph excerpt from Alice in Wonderland for the purpose of comparing actual output with randomised output.  
-But Shannon suggested and coined that the randomly generated text can represent far more information compared to the traditional Alice in Wonderland paragraph which must follow distinct rules of the English language and is therefore restricted.  
-Shannon proposed the idea of generating strings of letters based on their probability in the English language, by rebuilding strings and putting a weight on each character via the quantities of each character within the entire book of Alice in Wonderland in this example.  
+Shannon suggested and coined that the randomly generated text can represent far more information compared to the traditional Alice in Wonderland paragraph, which must follow distinct rules of the English language and is therefore restricted.    
 The word entropy refers to scenarios with less organisation, control and less constraints/restrictions.  
 The term was coined by German physicist Rudolf Clausius for his work in thermodynamics, where entropy can measure the amount of information in a variable.  
 In information theory, the entropy of a random variable is defined as the average level of uncertainty in possible outcomes stemming from the random variable.  
@@ -31,7 +29,7 @@ Topic 2: Randomness (Coin Flips, Counting Heads & Distributions)
 
 The word random refers to outcomes that are deemed to be unexpected.  
 In data analytics, randomness is focussed on its relationship to variation and expectation in events.  
-In this notebook, we will look at flipping coins and probabilities, and plotting distributions.  
+In this notebook, we will look at flipping coins and resulting probabilities, as well as plotting distributions.  
 
 References:  
 
@@ -42,4 +40,19 @@ Random Distributions, NumPy, https://numpy.org/doc/stable/reference/random/gener
 NumPy - Binomial Distribution, Alpha Coding Skills, https://www.alphacodingskills.com/numpy/numpy-binomial-distribution.php  
 Zach, How to Plot a Gamma Distribution in Python (With Examples), Statology, https://www.statology.org/gamma-distribution-in-python/  
 NumPy - Geometric Distribution, Alpha Coding Skills, https://www.alphacodingskills.com/numpy/numpy-geometric-distribution.php  
-Kumar Ajitesh, Geometric Distribution Explained with Python Examples, Vitalflux, https://vitalflux.com/geometric-distribution-explained-with-python-examples/
+Kumar Ajitesh, Geometric Distribution Explained with Python Examples, Vitalflux, https://vitalflux.com/geometric-distribution-explained-with-python-examples/  
+
+Topic 3: Bias (Cognitive Bias, Statistical Bias, Standard Deviation)  
+
+Bias is a mindset where we as humans will have our biases, which are influenced by our cultural, societal and personal experiences.  
+In this notebook, we will analyse cognitive biases in human mindsets as well as statistical biases influenced by the mean and standard deviation values.  
+
+References:  
+McLoughlin Ian, Fundamentals of Data Analysis Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/03-bias.ipynb  
+Codecademy Team, Bias in Data Analysis, Codecademy, https://www.codecademy.com/article/bias-in-data-analysis  
+How Cognitive Biases Affect Our Everyday Decisions, Towergate Insurance, https://www.towergateinsurance.co.uk/liability-insurance/cognitive-biases  
+Nortje Alicia, Lancia Gabriella, What is Cognitive Bias? 7 Examples & Resources (Incl. Codex), Positive Psychology, https://positivepsychology.com/cognitive-biases/  
+Lecture 4 Sample Size, PDX, https://web.pdx.edu/~newsomj/pa551/lecture4.htm  
+Ilola Eveliina, A Beginner's Guide to Standard Deviation and Standard Error, Students 4 Best Evidence, https://s4be.cochrane.org/blog/2018/09/26/a-beginners-guide-to-standard-deviation-and-standard-error/  
+Rajabi Reza, Using Standard Deviation in Python, Towards Data Science, https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b  
+
