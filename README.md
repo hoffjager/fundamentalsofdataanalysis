@@ -48,6 +48,7 @@ Bias is a mindset where we as humans will have our biases, which are influenced 
 In this notebook, we will analyse cognitive biases in human mindsets as well as statistical biases influenced by the mean and standard deviation values.  
 
 References:  
+
 McLoughlin Ian, Fundamentals of Data Analysis Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/03-bias.ipynb  
 Codecademy Team, Bias in Data Analysis, Codecademy, https://www.codecademy.com/article/bias-in-data-analysis  
 How Cognitive Biases Affect Our Everyday Decisions, Towergate Insurance, https://www.towergateinsurance.co.uk/liability-insurance/cognitive-biases  
@@ -56,3 +57,20 @@ Lecture 4 Sample Size, PDX, https://web.pdx.edu/~newsomj/pa551/lecture4.htm
 Ilola Eveliina, A Beginner's Guide to Standard Deviation and Standard Error, Students 4 Best Evidence, https://s4be.cochrane.org/blog/2018/09/26/a-beginners-guide-to-standard-deviation-and-standard-error/  
 Rajabi Reza, Using Standard Deviation in Python, Towards Data Science, https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b  
 
+Topic 4: Outliers (Scaling, Exponent, Percentiles, Quartiles)  
+
+In data analytics, outliers are values in datasets which majorly vary from others, being either significantly larger or smaller than the mean.  
+Outliers can be there to indicate to analysts any measuremental or experimental errors in datasets.  
+Outliers can negatively impact analytical results, but can be information that analysts are searching for in order to understand trends in datasets.  
+
+References:  
+
+McLoughlin Ian, Fundamentals of Data Analysis Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/04-outliers.ipynb  
+Sequitin Kirstie, What Is An Outlier?, CareerFoundry, https://careerfoundry.com/en/blog/data-analytics/what-is-an-outlier/  
+Eilers Joe, Studying the Speed of Light, RPubs, https://rpubs.com/eilersj1/249581  
+Ashfaque M Johar, Pystarter: JMA - Morley, Kaggle, https://www.kaggle.com/code/ukveteran/pystarter-jma-morley  
+Bonthu Harika, Python Tutorial: Working with CSV file for Data Science, Analytics Vidhya, https://www.analyticsvidhya.com/blog/2021/08/python-tutorial-working-with-csv-file-for-data-science/  
+How to Specify Colors to Scatter Plots in Python, cmdlinetips, https://cmdlinetips.com/2019/04/how-to-specify-colors-to-scatter-plots-in-python/  
+What Is A Box and Whisker Plot?, Khan Academy, https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/box-plot-review  
+Bento Carolina, Create and customise boxplots with Python's Matplotlib to get lots of insights from your data, Towards Data Science, https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643  
+Inversely Proportional, KeyStageWiki, https://www.keystagewiki.com/index.php/Inversely_Proportional
